@@ -1,2 +1,2 @@
 # Practicepython.org-excercises 
-Excercise solutions from practicepython.org 
+Solutions for practicepython.org Excercises. 
